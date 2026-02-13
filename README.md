@@ -1,7 +1,1 @@
-<details>
-  <summary><b>KLIKKAA TÄSTÄ: ilari2024.github.io</b></summary>
-  <p align="center">
-    Tervetuloa! Tässä on "pop-up" sisältö.<br>
-    <a href="https://ilari2024.github.io">Siirry varsinaiselle sivustolle tästä</a>
-  </p>
-</details>
+[![Siirry sivulle](https://dabuttonfactory.com/button.png?t=Siirry+sivulle&f=Open+Sans-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798)](https://ilari2024.github.io)
